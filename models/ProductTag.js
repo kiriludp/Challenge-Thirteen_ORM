@@ -1,3 +1,5 @@
+//replace the models/ProductTag.js file with this file 
+
 const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection');
